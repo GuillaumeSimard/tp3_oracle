@@ -10,11 +10,11 @@
     <property name="hibernate.show_sql">true</property>
     <property name="hibernate.current_session_context_class">thread</property>
     <property name="hibernate.query.factory_class">org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory</property>
-    <mapping resource="entity/Utilisateur.hbm.xml"/>
-    <mapping resource="entity/Entreprise.hbm.xml"/>
-    <mapping resource="entity/Etudiant.hbm.xml"/>
-    <mapping resource="entity/Poste.hbm.xml"/>
-    <mapping resource="entity/Stage.hbm.xml"/>
-    <mapping resource="entity/Superviseur.hbm.xml"/>
+    <mapping class="entity.Etudiant"/>
+    <mapping class="entity.Poste"/>
+    <mapping class="entity.Entreprise"/>
+    <mapping class="entity.Stage"/>
+    <mapping class="entity.Utilisateur"/>
+    <mapping class="entity.Superviseur"/>
   </session-factory>
 </hibernate-configuration>
