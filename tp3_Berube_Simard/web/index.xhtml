@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:h="http://xmlns.jcp.org/jsf/html">
-    <h:head>
-        <title>Facelet Title</title>
-    </h:head>
-    <h:body>
-        Hello from Facelets
-    </h:body>
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+            xmlns:ui="http://java.sun.com/jsf/facelets">
+    
+<ui:composition template="/gabarit.xhtml">
+<ui:define name="content">
+	<h1>Bienvenue sur le site de la Bibliotèque de garneau !!</h1>
+	<p>
+		Bienvenue sur le site de la bibliotèteque de la ville de garneau. Ici, vous allez pouvoir
+		faire la recherche de livre, soit par auteur ou par titre, vous allez aussi pouvoir vous
+		 connecter à votre compte pour faire la réservation de livre pour un certain temps. Par la suite,
+		 vous aller pouvoir visité la liste de tous vos emprunts. Lorsque que vous saurez en mesure d'entrer des
+		 locations d'article pour des membres.
+	</p>
+</ui:define>
+</ui:composition>
 </html>
 

@@ -3,10 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/web/index.xhtml</file>
-            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/entity/Entreprise.java</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/hibernate1.reveng.xml</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/entity/Utilisateur.java</file>
             <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/hibernate.cfg.xml</file>
             <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/model/Utilisateur_dao.java</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/Controlleurs/UtilisateurBean.java</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/src/java/model/HibernateUtil.java</file>
+            <file>file:/C:/Users/Guillaume/Desktop/cegep/Hiver%202015/BD%20ORACLE/tp/Travail%203/tp3_Berube_Simard/web/gabarit.xhtml</file>
         </group>
     </open-files>
 </project-private>
